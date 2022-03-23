@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=YUJU&fontSize=99&fontcolor=auto)
 
-
+___
+***
 ---
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logoColor=white)
@@ -12,4 +13,5 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logoColor=white)
 
 ---
-![9Yuju's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Yuju&show_icons=true&theme=dracula)
+![9Yuju's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Yuju&show_icons=true&theme=dracula)  
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bxxx)](https://solved.ac/bxxx/)
