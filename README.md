@@ -10,3 +10,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logoColor=white)
+
+---
+![9Yuju's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Yuju&show_icons=true&theme=dracula)
